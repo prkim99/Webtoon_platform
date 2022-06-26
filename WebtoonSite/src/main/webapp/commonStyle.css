@@ -1,0 +1,34 @@
+@charset "UTF-8";
+header {
+	color: black;
+	font-size: 30px;
+	text-shadow: 3px 3px 5px gray;
+}
+
+.homeImg {
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
+}
+
+article {
+	width: 400px;
+	height: 500px;
+	margin: 10px;
+	float: left;
+}
+
+.thumnail {
+	width: 400px;
+	height: 250px;
+	border: 1px solid black;
+}
+
+
+.btn_navy{
+	background-color:#2E86C1;
+	color:white;
+}
+.btn_sky{
+background-color:#D6EAF8;
+}
